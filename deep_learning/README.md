@@ -16,7 +16,8 @@ Copy the directory below into your ```mach.learn``` directory:
 ```
 cp -R /share/apps/examples/SCC/ML_Tensorflow .
 ```
-This folder is also available in the github repository here:
+This folder is also available in the github repository here: [ML_Tensorflow repo](https://github.com/sdsc-hpc-training-org/notebook-examples/tree/master/deep_learning/ML_Tensorflow) 
+
 You will see a jupyter notebook in the directory:  
 ```
 [user@comet-ln2:~/hpctrain/mach.learn/ML_Tensorflow] ls -al 
