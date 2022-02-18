@@ -1,14 +1,10 @@
-#  PRODUCTION FILES
+#  SDSC Jupyter Notebooks Collection
 
-## This folder holds copies of all notebooks that have been moved to production at
-https://github.com/sdsc-hpc-training-org/notebook-examples
+## Last Updated:   02/18/2022
 
-
-## Plan
-
-### Hello World
-
-### Refactor of Python Master Series
-list them all here
+This repository contains a collection of Jupyter Notebooks that have been tested to run on SDSC HPC systems.
 
 
+
+<hr>
+*Contact the XSEDE Help Desk if you have any problems:   help@xsede.org*
